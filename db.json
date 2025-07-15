@@ -50,5 +50,42 @@
       "updated_at": "2025-06-15",
       "user_id": 104
     }
+  ],
+   "album": [
+    {
+      "id": 1,
+      "album_name": "Eternal Echoes",
+      "release_date": "2022-05-14",
+      "album_img": "https://example.com/images/eternal_echoes.jpg",
+      "artist_id": 101
+    },
+    {
+      "id": 2,
+      "album_name": "Midnight Waves",
+      "release_date": "2023-02-27",
+      "album_img": "https://example.com/images/midnight_waves.jpg",
+      "artist_id": 102
+    },
+    {
+      "id": 3,
+      "album_name": "Solar Dreams",
+      "release_date": "2021-11-03",
+      "album_img": "https://example.com/images/solar_dreams.jpg",
+      "artist_id": 103
+    },
+    {
+      "id": 4,
+      "album_name": "Neon Skyline",
+      "release_date": "2024-04-18",
+      "album_img": "https://example.com/images/neon_skyline.jpg",
+      "artist_id": 104
+    },
+    {
+      "id": 5,
+      "album_name": "Crimson Horizon",
+      "release_date": "2020-08-09",
+      "album_img": "https://example.com/images/crimson_horizon.jpg",
+      "artist_id": 105
+    }
   ]
 }
