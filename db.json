@@ -6,8 +6,8 @@
       "playlist_description": "Relax and unwind with smooth chill tracks.",
       "playlist_img": "https://example.com/images/chill_vibes.jpg",
       "is_public": true,
-      "created_at": "2025-07-01T12:00:00Z",
-      "updated_at": "2025-07-10T15:00:00Z",
+      "created_at": "2025-07-01",
+      "updated_at": "2025-07-10",
       "user_id": 101
     },
     {
@@ -16,8 +16,8 @@
       "playlist_description": "High-energy songs to keep you pumped at the gym.",
       "playlist_img": "https://example.com/images/workout_mix.jpg",
       "is_public": true,
-      "created_at": "2025-06-20T08:30:00Z",
-      "updated_at": "2025-07-05T10:00:00Z",
+      "created_at": "2025-06-20",
+      "updated_at": "2025-07-05",
       "user_id": 102
     },
     {
@@ -26,8 +26,8 @@
       "playlist_description": "Lo-fi beats to help you focus while studying.",
       "playlist_img": "https://example.com/images/study.jpg",
       "is_public": false,
-      "created_at": "2025-05-15T09:45:00Z",
-      "updated_at": "2025-06-01T14:20:00Z",
+      "created_at": "2025-05-15",
+      "updated_at": "2025-06-01",
       "user_id": 103
     },
     {
@@ -36,8 +36,8 @@
       "playlist_description": "A nostalgic trip through the greatest hits of the 90s and 2000s.",
       "playlist_img": "https://example.com/images/throwback.jpg",
       "is_public": true,
-      "created_at": "2025-04-10T11:00:00Z",
-      "updated_at": "2025-07-01T11:15:00Z",
+      "created_at": "2025-04-10",
+      "updated_at": "2025-07-01",
       "user_id": 101
     },
     {
@@ -46,8 +46,8 @@
       "playlist_description": "Smooth jazz tunes for your evening relaxation.",
       "playlist_img": "https://example.com/images/jazz_evenings.jpg",
       "is_public": false,
-      "created_at": "2025-03-01T18:00:00Z",
-      "updated_at": "2025-06-15T19:30:00Z",
+      "created_at": "2025-03-01",
+      "updated_at": "2025-06-15",
       "user_id": 104
     }
   ]
