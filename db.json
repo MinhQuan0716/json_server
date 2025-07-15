@@ -1,7 +1,7 @@
 {
   "playlists": [
     {
-      "playlist_id": 1,
+      "id": 1,
       "playlist_name": "Chill Vibes",
       "playlist_description": "Relax and unwind with smooth chill tracks.",
       "playlist_img": "https://example.com/images/chill_vibes.jpg",
@@ -11,7 +11,7 @@
       "user_id": 101
     },
     {
-      "playlist_id": 2,
+      "id": 2,
       "playlist_name": "Workout Mix",
       "playlist_description": "High-energy songs to keep you pumped at the gym.",
       "playlist_img": "https://example.com/images/workout_mix.jpg",
@@ -21,7 +21,7 @@
       "user_id": 102
     },
     {
-      "playlist_id": 3,
+      "id": 3,
       "playlist_name": "Private Study",
       "playlist_description": "Lo-fi beats to help you focus while studying.",
       "playlist_img": "https://example.com/images/study.jpg",
@@ -31,7 +31,7 @@
       "user_id": 103
     },
     {
-      "playlist_id": 4,
+      "id": 4,
       "playlist_name": "Throwback Hits",
       "playlist_description": "A nostalgic trip through the greatest hits of the 90s and 2000s.",
       "playlist_img": "https://example.com/images/throwback.jpg",
@@ -41,7 +41,7 @@
       "user_id": 101
     },
     {
-      "playlist_id": 5,
+      "id": 5,
       "playlist_name": "Jazz Evenings",
       "playlist_description": "Smooth jazz tunes for your evening relaxation.",
       "playlist_img": "https://example.com/images/jazz_evenings.jpg",
