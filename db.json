@@ -52,40 +52,60 @@
     }
   ],
    "albums": [
-    {
+     {
       "id": 1,
       "album_name": "Eternal Echoes",
       "release_date": "2022-05-14",
       "album_img": "https://example.com/images/eternal_echoes.jpg",
-      "artist_id": 101
+      "artist": "Lucas Waves",
+      "genre": "Vietnamese Pop",
+      "totalSong": 10,
+      "totalDuration": "38:20",
+      "follower": 24500
     },
     {
       "id": 2,
       "album_name": "Midnight Waves",
       "release_date": "2023-02-27",
       "album_img": "https://example.com/images/midnight_waves.jpg",
-      "artist_id": 102
+      "artist": "Emma Raine",
+      "genre": "K-Pop",
+      "totalSong": 12,
+      "totalDuration": "42:55",
+      "follower": 88200
     },
     {
       "id": 3,
       "album_name": "Solar Dreams",
       "release_date": "2021-11-03",
       "album_img": "https://example.com/images/solar_dreams.jpg",
-      "artist_id": 103
+      "artist": "Noah Kent",
+      "genre": "Rock",
+      "totalSong": 9,
+      "totalDuration": "36:48",
+      "follower": 15700
     },
     {
       "id": 4,
       "album_name": "Neon Skyline",
       "release_date": "2024-04-18",
       "album_img": "https://example.com/images/neon_skyline.jpg",
-      "artist_id": 104
+      "artist": "Ava Storm",
+      "genre": "Electronic",
+      "totalSong": 11,
+      "totalDuration": "44:02",
+      "follower": 31450
     },
     {
       "id": 5,
       "album_name": "Crimson Horizon",
       "release_date": "2020-08-09",
       "album_img": "https://example.com/images/crimson_horizon.jpg",
-      "artist_id": 105
+      "artist": "Liam Jet",
+      "genre": "Hip Hop",
+      "totalSong": 13,
+      "totalDuration": "49:17",
+      "follower": 40500
     }
   ],
   "users": [
