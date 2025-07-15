@@ -168,44 +168,23 @@
   "genre": [
     {
       "id": 1,
-      "genreName": "Vietnamese Pop",
-      "subGenre": [
-        { "subGenreId": 1, "subGenreName": "Rap" },
-        { "subGenreId": 2, "subGenreName": "Vietnamese Music" }
-      ]
+      "genreName": "Vietnamese Pop"
     },
     {
       "id": 2,
-      "genreName": "K-Pop",
-      "subGenre": [
-        { "subGenreId": 3, "subGenreName": "Boy Group" },
-        { "subGenreId": 4, "subGenreName": "Girl Group" },
-        { "subGenreId": 5, "subGenreName": "Solo" }
-      ]
+      "genreName": "K-Pop"
     },
     {
       "id": 3,
-      "genreName": "Rock",
-      "subGenre": [
-        { "subGenreId": 6, "subGenreName": "Alternative Rock" },
-        { "subGenreId": 7, "subGenreName": "Classic Rock" }
-      ]
+      "genreName": "Rock"
     },
     {
       "id": 4,
-      "genreName": "Electronic",
-      "subGenre": [
-        { "subGenreId": 8, "subGenreName": "House" },
-        { "subGenreId": 9, "subGenreName": "Techno" }
-      ]
+      "genreName": "Electronic"
     },
     {
       "id": 5,
-      "genreName": "Hip Hop",
-      "subGenre": [
-        { "subGenreId": 10, "subGenreName": "Trap" },
-        { "subGenreId": 11, "subGenreName": "Boom Bap" }
-      ]
+      "genreName": "Hip Hop"
     }
   ]
 }
