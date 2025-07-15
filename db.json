@@ -1,21 +1,14 @@
-[{"id":1,"first_name":"Vikky","last_name":"Coorington","email":"vcoorington0@pinterest.com","gender":"Female","ip_address":"39.88.79.111"},
-{"id":2,"first_name":"Averill","last_name":"Sommers","email":"asommers1@techcrunch.com","gender":"Male","ip_address":"52.152.176.38"},
-{"id":3,"first_name":"Kaja","last_name":"Dunford","email":"kdunford2@archive.org","gender":"Female","ip_address":"28.133.201.40"},
-{"id":4,"first_name":"Goran","last_name":"Bishop","email":"gbishop3@nbcnews.com","gender":"Male","ip_address":"222.146.153.223"},
-{"id":5,"first_name":"Angy","last_name":"Brumpton","email":"abrumpton4@mapquest.com","gender":"Female","ip_address":"169.136.159.132"},
-{"id":6,"first_name":"Tim","last_name":"Richin","email":"trichin5@w3.org","gender":"Female","ip_address":"197.142.149.34"},
-{"id":7,"first_name":"Arne","last_name":"Rosenbarg","email":"arosenbarg6@squarespace.com","gender":"Male","ip_address":"170.235.91.148"},
-{"id":8,"first_name":"Dell","last_name":"Tregunnah","email":"dtregunnah7@wsj.com","gender":"Male","ip_address":"174.237.238.76"},
-{"id":9,"first_name":"Jeramey","last_name":"Sharple","email":"jsharple8@webs.com","gender":"Male","ip_address":"238.184.159.197"},
-{"id":10,"first_name":"Guinna","last_name":"Hembry","email":"ghembry9@examiner.com","gender":"Female","ip_address":"229.147.192.208"},
-{"id":11,"first_name":"Che","last_name":"Bryce","email":"cbrycea@livejournal.com","gender":"Male","ip_address":"120.255.247.58"},
-{"id":12,"first_name":"Arden","last_name":"Vedishchev","email":"avedishchevb@constantcontact.com","gender":"Female","ip_address":"86.32.157.77"},
-{"id":13,"first_name":"Heindrick","last_name":"Blood","email":"hbloodc@cargocollective.com","gender":"Male","ip_address":"234.104.146.228"},
-{"id":14,"first_name":"Purcell","last_name":"Deverall","email":"pdeveralld@sitemeter.com","gender":"Male","ip_address":"188.127.103.1"},
-{"id":15,"first_name":"Jerrome","last_name":"Valasek","email":"jvalaseke@biglobe.ne.jp","gender":"Male","ip_address":"244.91.201.71"},
-{"id":16,"first_name":"Eziechiele","last_name":"Winslett","email":"ewinslettf@amazon.co.jp","gender":"Male","ip_address":"85.7.229.141"},
-{"id":17,"first_name":"Pansie","last_name":"Ferrario","email":"pferrariog@hubpages.com","gender":"Female","ip_address":"97.64.91.248"},
-{"id":18,"first_name":"Wilma","last_name":"Bohlmann","email":"wbohlmannh@zimbio.com","gender":"Female","ip_address":"59.38.129.216"},
-{"id":19,"first_name":"Alena","last_name":"Standbrook","email":"astandbrooki@1und1.de","gender":"Female","ip_address":"228.9.12.74"},
-{"id":20,"first_name":"Dimitry","last_name":"Lorand","email":"dlorandj@google.co.uk","gender":"Male","ip_address":"118.153.58.131"},
-
+{
+  "users": [
+    { "id": 1, "first_name": "Vikky", "last_name": "Coorington", "email": "vcoorington0@pinterest.com", "gender": "Female", "ip_address": "39.88.79.111" },
+    { "id": 2, "first_name": "Averill", "last_name": "Sommers", "email": "asommers1@techcrunch.com", "gender": "Male", "ip_address": "52.152.176.38" },
+    { "id": 3, "first_name": "Kaja", "last_name": "Dunford", "email": "kdunford2@archive.org", "gender": "Female", "ip_address": "28.133.201.40" },
+    { "id": 4, "first_name": "Goran", "last_name": "Bishop", "email": "gbishop3@nbcnews.com", "gender": "Male", "ip_address": "222.146.153.223" },
+    { "id": 5, "first_name": "Angy", "last_name": "Brumpton", "email": "abrumpton4@mapquest.com", "gender": "Female", "ip_address": "169.136.159.132" },
+    { "id": 6, "first_name": "Tim", "last_name": "Richin", "email": "trichin5@w3.org", "gender": "Female", "ip_address": "197.142.149.34" },
+    { "id": 7, "first_name": "Arne", "last_name": "Rosenbarg", "email": "arosenbarg6@squarespace.com", "gender": "Male", "ip_address": "170.235.91.148" },
+    { "id": 8, "first_name": "Dell", "last_name": "Tregunnah", "email": "dtregunnah7@wsj.com", "gender": "Male", "ip_address": "174.237.238.76" },
+    { "id": 9, "first_name": "Jeramey", "last_name": "Sharple", "email": "jsharple8@webs.com", "gender": "Male", "ip_address": "238.184.159.197" },
+    { "id": 10, "first_name": "Guinna", "last_name": "Hembry", "email": "ghembry9@examiner.com", "gender": "Female", "ip_address": "229.147.192.208" }
+  ]
+}
