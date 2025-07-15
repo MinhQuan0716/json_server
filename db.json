@@ -8,7 +8,7 @@
       "is_public": true,
       "created_at": "2025-07-01",
       "updated_at": "2025-07-10",
-      "user_id": 101
+      "user_id": 1
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "is_public": true,
       "created_at": "2025-06-20",
       "updated_at": "2025-07-05",
-      "user_id": 102
+      "user_id": 2
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "is_public": false,
       "created_at": "2025-05-15",
       "updated_at": "2025-06-01",
-      "user_id": 103
+      "user_id": 4
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "is_public": true,
       "created_at": "2025-04-10",
       "updated_at": "2025-07-01",
-      "user_id": 101
+      "user_id": 3
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "is_public": false,
       "created_at": "2025-03-01",
       "updated_at": "2025-06-15",
-      "user_id": 104
+      "user_id": 5
     }
   ],
    "albums": [
@@ -86,6 +86,63 @@
       "release_date": "2020-08-09",
       "album_img": "https://example.com/images/crimson_horizon.jpg",
       "artist_id": 105
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user_name": "lucas_w",
+      "email": "lucas@example.com",
+      "password_hash": "5f4dcc3b5aa765d61d8327deb882cf99",
+      "user_img": "https://example.com/images/users/lucas.jpg",
+      "created_at": "2023-01-10T09:23:00Z",
+      "status": "active",
+      "is_premium": true,
+      "role_id": 1
+    },
+    {
+      "id": 2,
+      "user_name": "emma_r",
+      "email": "emma@example.com",
+      "password_hash": "e99a18c428cb38d5f260853678922e03",
+      "user_img": "https://example.com/images/users/emma.jpg",
+      "created_at": "2022-11-22T14:45:00Z",
+      "status": "inactive",
+      "is_premium": false,
+      "role_id": 2
+    },
+    {
+      "id": 3,
+      "user_name": "noah_k",
+      "email": "noah@example.com",
+      "password_hash": "d8578edf8458ce06fbc5bb76a58c5ca4",
+      "user_img": "https://example.com/images/users/noah.jpg",
+      "created_at": "2023-06-01T18:12:00Z",
+      "status": "active",
+      "is_premium": true,
+      "role_id": 3
+    },
+    {
+      "id": 4,
+      "user_name": "ava_s",
+      "email": "ava@example.com",
+      "password_hash": "25d55ad283aa400af464c76d713c07ad",
+      "user_img": "https://example.com/images/users/ava.jpg",
+      "created_at": "2021-09-17T07:58:00Z",
+      "status": "banned",
+      "is_premium": false,
+      "role_id": 2
+    },
+    {
+      "id": 5,
+      "user_name": "liam_j",
+      "email": "liam@example.com",
+      "password_hash": "098f6bcd4621d373cade4e832627b4f6",
+      "user_img": "https://example.com/images/users/liam.jpg",
+      "created_at": "2024-02-05T12:00:00Z",
+      "status": "active",
+      "is_premium": false,
+      "role_id": 1
     }
   ]
 }
