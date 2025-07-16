@@ -51,8 +51,8 @@
       "user_id": 5
     }
   ],
-   "albums": [
-     {
+  "albums": [
+    {
       "id": 1,
       "album_name": "Eternal Echoes",
       "release_date": "2022-05-14",
@@ -185,6 +185,10 @@
     {
       "id": 5,
       "genreName": "Hip Hop"
+    },
+    {
+      "genreName": "Test",
+      "id": 6
     }
   ]
 }
