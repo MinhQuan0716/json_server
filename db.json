@@ -1,56 +1,91 @@
 {
-  "playlists": [
-    {
-      "id": 1,
-      "playlist_name": "Chill Vibes",
-      "playlist_description": "Relax and unwind with smooth chill tracks.",
-      "playlist_img": "https://example.com/images/chill_vibes.jpg",
-      "is_public": true,
-      "created_at": "2025-07-01",
-      "updated_at": "2025-07-10",
-      "user_id": 1
-    },
-    {
-      "id": 2,
-      "playlist_name": "Workout Mix",
-      "playlist_description": "High-energy songs to keep you pumped at the gym.",
-      "playlist_img": "https://example.com/images/workout_mix.jpg",
-      "is_public": true,
-      "created_at": "2025-06-20",
-      "updated_at": "2025-07-05",
-      "user_id": 2
-    },
-    {
-      "id": 3,
-      "playlist_name": "Private Study",
-      "playlist_description": "Lo-fi beats to help you focus while studying.",
-      "playlist_img": "https://example.com/images/study.jpg",
-      "is_public": false,
-      "created_at": "2025-05-15",
-      "updated_at": "2025-06-01",
-      "user_id": 4
-    },
-    {
-      "id": 4,
-      "playlist_name": "Throwback Hits",
-      "playlist_description": "A nostalgic trip through the greatest hits of the 90s and 2000s.",
-      "playlist_img": "https://example.com/images/throwback.jpg",
-      "is_public": true,
-      "created_at": "2025-04-10",
-      "updated_at": "2025-07-01",
-      "user_id": 3
-    },
-    {
-      "id": 5,
-      "playlist_name": "Jazz Evenings",
-      "playlist_description": "Smooth jazz tunes for your evening relaxation.",
-      "playlist_img": "https://example.com/images/jazz_evenings.jpg",
-      "is_public": false,
-      "created_at": "2025-03-01",
-      "updated_at": "2025-06-15",
-      "user_id": 5
-    }
-  ],
+ "playlists": [
+  {
+    "id": 1,
+    "playlist_name": "Chill Vibes",
+    "playlist_description": "Relax and unwind with smooth chill tracks.",
+    "playlist_img": "https://example.com/images/chill_vibes.jpg",
+    "is_public": true,
+    "created_at": "2025-07-01",
+    "updated_at": "2025-07-10",
+    "user_id": 1,
+    "total_duration": 5400,
+    "total_song": 12,
+    "songs": [
+      { "id": 1 },
+      { "id": 2 },
+      { "id": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "playlist_name": "Workout Mix",
+    "playlist_description": "High-energy songs to keep you pumped at the gym.",
+    "playlist_img": "https://example.com/images/workout_mix.jpg",
+    "is_public": true,
+    "created_at": "2025-06-20",
+    "updated_at": "2025-07-05",
+    "user_id": 2,
+    "total_duration": 4200,
+    "total_song": 10,
+    "songs": [
+      { "id": 4 },
+      { "id": 5 },
+      { "id": 6 }
+    ]
+  },
+  {
+    "id": 3,
+    "playlist_name": "Private Study",
+    "playlist_description": "Lo-fi beats to help you focus while studying.",
+    "playlist_img": "https://example.com/images/study.jpg",
+    "is_public": false,
+    "created_at": "2025-05-15",
+    "updated_at": "2025-06-01",
+    "user_id": 4,
+    "total_duration": 3600,
+    "total_song": 8,
+    "songs": [
+      { "id": 7 },
+      { "id": 8 },
+      { "id": 9 }
+    ]
+  },
+  {
+    "id": 4,
+    "playlist_name": "Throwback Hits",
+    "playlist_description": "A nostalgic trip through the greatest hits of the 90s and 2000s.",
+    "playlist_img": "https://example.com/images/throwback.jpg",
+    "is_public": true,
+    "created_at": "2025-04-10",
+    "updated_at": "2025-07-01",
+    "user_id": 3,
+    "total_duration": 6000,
+    "total_song": 15,
+    "songs": [
+      { "id": 10 },
+      { "id": 11 },
+      { "id": 12 }
+    ]
+  },
+  {
+    "id": 5,
+    "playlist_name": "Jazz Evenings",
+    "playlist_description": "Smooth jazz tunes for your evening relaxation.",
+    "playlist_img": "https://example.com/images/jazz_evenings.jpg",
+    "is_public": false,
+    "created_at": "2025-03-01",
+    "updated_at": "2025-06-15",
+    "user_id": 5,
+    "total_duration": 4800,
+    "total_song": 9,
+    "songs": [
+      { "id": 13 },
+      { "id": 14 },
+      { "id": 15 }
+    ]
+  }
+],
   "albums": [
     {
       "id": 1,
