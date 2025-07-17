@@ -226,61 +226,66 @@
       "id": 6
     }
   ],
-  "tracks": [
-    {
-      "id": 1,
-      "artist_id": 101,
-      "published_at": "2024-06-15T00:00:00Z",
-      "duration": 215,
-      "play_count": 12456,
-      "img_url": "https://example.com/images/track1.jpg",
-      "track_url": "https://example.com/tracks/track1.mp3",
-      "status": "active",
-      "album_id": 201
-    },
-    {
-      "id": 2,
-      "artist_id": 102,
-      "published_at": "2024-07-01T00:00:00Z",
-      "duration": 198,
-      "play_count": 8472,
-      "img_url": "https://example.com/images/track2.jpg",
-      "track_url": "https://example.com/tracks/track2.mp3",
-      "status": "inactive",
-      "album_id": 202
-    },
-    {
-      "id": 3,
-      "artist_id": 103,
-      "published_at": "2024-05-20T00:00:00Z",
-      "duration": 243,
-      "play_count": 3021,
-      "img_url": "https://example.com/images/track3.jpg",
-      "track_url": "https://example.com/tracks/track3.mp3",
-      "status": "active",
-      "album_id": 203
-    },
-    {
-      "id": 4,
-      "artist_id": 104,
-      "published_at": "2023-12-10T00:00:00Z",
-      "duration": 180,
-      "play_count": 15788,
-      "img_url": "https://example.com/images/track4.jpg",
-      "track_url": "https://example.com/tracks/track4.mp3",
-      "status": "active",
-      "album_id": 204
-    },
-    {
-      "id": 5,
-      "artist_id": 105,
-      "published_at": "2024-03-22T00:00:00Z",
-      "duration": 210,
-      "play_count": 9324,
-      "img_url": "https://example.com/images/track5.jpg",
-      "track_url": "https://example.com/tracks/track5.mp3",
-      "status": "inactive",
-      "album_id": 205
-    }
-  ]
+ "tracks": [
+  {
+    "id": 1,
+    "track_name": "Ocean Breeze",
+    "artist_id": 101,
+    "published_at": "2024-06-15T00:00:00Z",
+    "duration": 215,
+    "play_count": 12456,
+    "img_url": "https://example.com/images/track1.jpg",
+    "track_url": "https://example.com/tracks/track1.mp3",
+    "status": "active",
+    "album_id": 201
+  },
+  {
+    "id": 2,
+    "track_name": "Midnight Drive",
+    "artist_id": 102,
+    "published_at": "2024-07-01T00:00:00Z",
+    "duration": 198,
+    "play_count": 8472,
+    "img_url": "https://example.com/images/track2.jpg",
+    "track_url": "https://example.com/tracks/track2.mp3",
+    "status": "inactive",
+    "album_id": 202
+  },
+  {
+    "id": 3,
+    "track_name": "Fading Echoes",
+    "artist_id": 103,
+    "published_at": "2024-05-20T00:00:00Z",
+    "duration": 243,
+    "play_count": 3021,
+    "img_url": "https://example.com/images/track3.jpg",
+    "track_url": "https://example.com/tracks/track3.mp3",
+    "status": "active",
+    "album_id": 203
+  },
+  {
+    "id": 4,
+    "track_name": "Golden Horizon",
+    "artist_id": 104,
+    "published_at": "2023-12-10T00:00:00Z",
+    "duration": 180,
+    "play_count": 15788,
+    "img_url": "https://example.com/images/track4.jpg",
+    "track_url": "https://example.com/tracks/track4.mp3",
+    "status": "active",
+    "album_id": 204
+  },
+  {
+    "id": 5,
+    "track_name": "Winds of Change",
+    "artist_id": 105,
+    "published_at": "2024-03-22T00:00:00Z",
+    "duration": 210,
+    "play_count": 9324,
+    "img_url": "https://example.com/images/track5.jpg",
+    "track_url": "https://example.com/tracks/track5.mp3",
+    "status": "inactive",
+    "album_id": 205
+  }
+]
 }
