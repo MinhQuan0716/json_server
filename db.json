@@ -235,7 +235,7 @@
     "duration": 215,
     "play_count": 12456,
     "img_url": "https://example.com/images/track1.jpg",
-    "track_url": "https://example.com/tracks/track1.mp3",
+    "track_url": "https://cdn.pixabay.com/audio/2022/02/23/audio_b80d8c10e3.mp3",
     "status": "active",
     "album_id": 201
   },
@@ -247,7 +247,7 @@
     "duration": 198,
     "play_count": 8472,
     "img_url": "https://example.com/images/track2.jpg",
-    "track_url": "https://example.com/tracks/track2.mp3",
+    "track_url": "https://cdn.pixabay.com/audio/2022/03/15/audio_113a7b3a1c.mp3",
     "status": "inactive",
     "album_id": 202
   },
@@ -259,7 +259,7 @@
     "duration": 243,
     "play_count": 3021,
     "img_url": "https://example.com/images/track3.jpg",
-    "track_url": "https://example.com/tracks/track3.mp3",
+    "track_url": "https://cdn.pixabay.com/audio/2022/02/23/audio_22743ce6c0.mp3",
     "status": "active",
     "album_id": 203
   },
@@ -271,7 +271,7 @@
     "duration": 180,
     "play_count": 15788,
     "img_url": "https://example.com/images/track4.jpg",
-    "track_url": "https://example.com/tracks/track4.mp3",
+    "track_url": "https://cdn.pixabay.com/audio/2021/08/04/audio_9f73a81a0a.mp3",
     "status": "active",
     "album_id": 204
   },
@@ -283,9 +283,69 @@
     "duration": 210,
     "play_count": 9324,
     "img_url": "https://example.com/images/track5.jpg",
-    "track_url": "https://example.com/tracks/track5.mp3",
+    "track_url": "https://cdn.pixabay.com/audio/2022/03/02/audio_b4fa304fd0.mp3",
     "status": "inactive",
     "album_id": 205
+  },
+  {
+    "id": 6,
+    "track_name": "Electric Pulse",
+    "artist_id": 106,
+    "published_at": "2024-08-05T00:00:00Z",
+    "duration": 202,
+    "play_count": 11034,
+    "img_url": "https://example.com/images/track6.jpg",
+    "track_url": "https://cdn.pixabay.com/audio/2022/03/15/audio_73b1e31930.mp3",
+    "status": "active",
+    "album_id": 206
+  },
+  {
+    "id": 7,
+    "track_name": "Starlit Journey",
+    "artist_id": 107,
+    "published_at": "2024-04-12T00:00:00Z",
+    "duration": 225,
+    "play_count": 7639,
+    "img_url": "https://example.com/images/track7.jpg",
+    "track_url": "https://cdn.pixabay.com/audio/2022/08/19/audio_8f5b6c1cd2.mp3",
+    "status": "active",
+    "album_id": 207
+  },
+  {
+    "id": 8,
+    "track_name": "Crimson Skies",
+    "artist_id": 108,
+    "published_at": "2024-02-28T00:00:00Z",
+    "duration": 195,
+    "play_count": 8821,
+    "img_url": "https://example.com/images/track8.jpg",
+    "track_url": "https://cdn.pixabay.com/audio/2022/03/15/audio_6475f4897c.mp3",
+    "status": "inactive",
+    "album_id": 208
+  },
+  {
+    "id": 9,
+    "track_name": "Velvet Morning",
+    "artist_id": 109,
+    "published_at": "2024-09-14T00:00:00Z",
+    "duration": 230,
+    "play_count": 6574,
+    "img_url": "https://example.com/images/track9.jpg",
+    "track_url": "https://cdn.pixabay.com/audio/2022/03/03/audio_831eac7c9f.mp3",
+    "status": "active",
+    "album_id": 209
+  },
+  {
+    "id": 10,
+    "track_name": "Neon Mirage",
+    "artist_id": 110,
+    "published_at": "2024-10-01T00:00:00Z",
+    "duration": 218,
+    "play_count": 9990,
+    "img_url": "https://example.com/images/track10.jpg",
+    "track_url": "https://cdn.pixabay.com/audio/2022/02/23/audio_e187b92d57.mp3",
+    "status": "active",
+    "album_id": 210
   }
 ]
 }
