@@ -346,6 +346,30 @@
     "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
     "status": "active",
     "album_id": 210
+  },
+   {
+    "id": 11,
+    "track_name": "Neon Gold",
+    "artist_id": 110,
+    "published_at": "2024-10-01T00:00:00Z",
+    "duration": 218,
+    "play_count": 9990,
+    "img_url": "https://i.scdn.co/image/ab67616d00001e02bf7d3058bc206639f626da8b",
+    "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
+    "status": "inactive",
+    "album_id": 211
+  },
+   {
+    "id": 12,
+    "track_name": "Red Gold",
+    "artist_id": 110,
+    "published_at": "2024-10-01T00:00:00Z",
+    "duration": 218,
+    "play_count": 9990,
+    "img_url": "https://i.scdn.co/image/ab67616d00001e02bf7d3058bc206639f626da8b",
+    "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
+    "status": "inactive",
+    "album_id": 211
   }
 ],
    "comments": [
