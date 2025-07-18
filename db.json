@@ -347,5 +347,193 @@
     "status": "active",
     "album_id": 210
   }
-]
+],
+   "comments": [
+    {
+      "id": "1",
+      "user": "Alice",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "content": "This guide changed the way I think about code.",
+      "createdAt": "2024-07-15T09:00:00Z",
+      "status": "approved",
+      "replies": [
+        {
+          "id": "1-1",
+          "user": "Bob",
+          "content": "Same here, Alice!",
+          "createdAt": "2024-07-15T09:05:00Z",
+          "replies": [
+            {
+              "id": "1-1-1",
+              "user": "Charlie",
+              "content": "Are you referring to the section about hooks?",
+              "createdAt": "2024-07-15T09:10:00Z",
+              "replies": [
+                {
+                  "id": "1-1-1-1",
+                  "user": "Alice",
+                  "content": "Yes! That section was brilliant.",
+                  "createdAt": "2024-07-15T09:12:00Z",
+                  "replies": [
+                    {
+                      "id": "1-1-1-1-1",
+                      "user": "Admin",
+                      "content": "Glad it made a difference!",
+                      "createdAt": "2024-07-15T09:15:00Z",
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "user": "Diana",
+          "content": "Loved the state management tips!",
+          "createdAt": "2024-07-15T09:08:00Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user": "Evan",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "content": "Can someone explain the async logic?",
+      "createdAt": "2024-07-15T10:00:00Z",
+      "status": "pending",
+      "replies": [
+        {
+          "id": "2-1",
+          "user": "Fiona",
+          "content": "It basically means that...",
+          "createdAt": "2024-07-15T10:05:00Z",
+          "replies": [
+            {
+              "id": "2-1-1",
+              "user": "Evan",
+              "content": "Oh I see, thanks!",
+              "createdAt": "2024-07-15T10:07:00Z",
+              "replies": []
+            },
+            {
+              "id": "2-1-2",
+              "user": "George",
+              "content": "But it gets tricky with race conditions.",
+              "createdAt": "2024-07-15T10:08:00Z",
+              "replies": [
+                {
+                  "id": "2-1-2-1",
+                  "user": "Hannah",
+                  "content": "True, especially when using useEffect.",
+                  "createdAt": "2024-07-15T10:10:00Z",
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user": "Ian",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "content": "Why didn't you cover testing?",
+      "createdAt": "2024-07-15T11:00:00Z",
+      "status": "approved",
+      "replies": [
+        {
+          "id": "3-1",
+          "user": "Admin",
+          "content": "Good point, we're preparing a testing tutorial.",
+          "createdAt": "2024-07-15T11:05:00Z",
+          "replies": [
+            {
+              "id": "3-1-1",
+              "user": "Ian",
+              "content": "Looking forward to that!",
+              "createdAt": "2024-07-15T11:07:00Z",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user": "Jackie",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "content": "Should I use Redux or Context?",
+      "createdAt": "2024-07-15T12:00:00Z",
+      "status": "pending",
+      "replies": [
+        {
+          "id": "4-1",
+          "user": "Kevin",
+          "content": "Depends on your app size.",
+          "createdAt": "2024-07-15T12:05:00Z",
+          "replies": [
+            {
+              "id": "4-1-1",
+              "user": "Leo",
+              "content": "Redux gives better dev tools.",
+              "createdAt": "2024-07-15T12:06:00Z",
+              "replies": []
+            },
+            {
+              "id": "4-1-2",
+              "user": "Mia",
+              "content": "But Context is enough for small projects.",
+              "createdAt": "2024-07-15T12:07:00Z",
+              "replies": [
+                {
+                  "id": "4-1-2-1",
+                  "user": "Jackie",
+                  "content": "Thanks, that clarifies a lot.",
+                  "createdAt": "2024-07-15T12:08:00Z",
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "user": "Nina",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "content": "I used this to build my portfolio!",
+      "createdAt": "2024-07-15T13:00:00Z",
+      "status": "approved",
+      "replies": [
+        {
+          "id": "5-1",
+          "user": "Oscar",
+          "content": "Wow, can you share the link?",
+          "createdAt": "2024-07-15T13:05:00Z",
+          "replies": [
+            {
+              "id": "5-1-1",
+              "user": "Nina",
+              "content": "Sure, here it is: https://nina.dev",
+              "createdAt": "2024-07-15T13:06:00Z",
+              "replies": [
+                {
+                  "id": "5-1-1-1",
+                  "user": "Peter",
+                  "content": "This is impressive!",
+                  "createdAt": "2024-07-15T13:10:00Z",
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
