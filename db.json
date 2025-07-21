@@ -113,7 +113,7 @@
       "album_name": "Solar Dreams",
       "description": "A rock-infused dreamscape with acoustic undertones.",
       "release_date": "2021-11-03",
-      "album_img": "hhttps://picsum.photos/200/300?random=3",
+      "album_img": "https://picsum.photos/200/300?random=3",
       "artist_id": 103,
 
       "genre_ids": [5, 6],
