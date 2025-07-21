@@ -80,9 +80,9 @@
         "release_date": "2022-05-14",
         "album_img": "https://api.lorem.space/image/album?w=150&h=150",
         "artist_id": 101,
-        "artist_name": "Lucas Waves",
+
         "genre_ids": [1, 3],
-        "genre_names": ["Vietnamese Pop", "Indie"],
+
         "song_ids": [1001, 1002, 1003],
         "total_song": 10,
         "total_duration": 2300,
@@ -98,9 +98,9 @@
         "release_date": "2023-02-27",
         "album_img": "https://api.lorem.space/image/album?w=150&h=150",
         "artist_id": 102,
-        "artist_name": "Emma Raine",
+
         "genre_ids": [2, 4],
-        "genre_names": ["K-Pop", "R&B"],
+
         "song_ids": [1004, 1005, 1006],
         "total_song": 12,
         "total_duration": 2575,
@@ -116,9 +116,9 @@
         "release_date": "2021-11-03",
         "album_img": "hhttps://api.lorem.space/image/album?w=150&h=150",
         "artist_id": 103,
-        "artist_name": "Noah Kent",
+
         "genre_ids": [5, 6],
-        "genre_names": ["Rock", "Acoustic"],
+
         "song_ids": [1007, 1008, 1009],
         "total_song": 9,
         "total_duration": 2208,
@@ -134,9 +134,9 @@
         "release_date": "2024-04-18",
         "album_img": "https://api.lorem.space/image/album?w=150&h=150",
         "artist_id": 104,
-        "artist_name": "Ava Storm",
+
         "genre_ids": [7, 8],
-        "genre_names": ["Electronic", "Synthwave"],
+
         "song_ids": [1010, 1011, 1012],
         "total_song": 11,
         "total_duration": 2642,
@@ -152,9 +152,9 @@
         "release_date": "2020-08-09",
         "album_img": "https://api.lorem.space/image/album?w=150&h=150",
         "artist_id": 105,
-        "artist_name": "Liam Jet",
+
         "genre_ids": [9, 10],
-        "genre_names": ["Hip Hop", "Trap"],
+
         "song_ids": [1013, 1014, 1015],
         "total_song": 13,
         "total_duration": 2957,
