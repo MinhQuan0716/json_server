@@ -78,7 +78,7 @@
         "album_name": "Eternal Echoes",
         "description": "A nostalgic journey through shimmering vocals and mellow beats.",
         "release_date": "2022-05-14",
-        "album_img": "https://api.lorem.space/image/album?w=150&h=150",
+        "album_img": "https://picsum.photos/200/300?random=1",
         "artist_id": 101,
 
         "genre_ids": [1, 3],
@@ -96,7 +96,7 @@
         "album_name": "Midnight Waves",
         "description": "A smooth blend of R&B and contemporary K-pop influences.",
         "release_date": "2023-02-27",
-        "album_img": "https://api.lorem.space/image/album?w=150&h=150",
+        "album_img": "https://picsum.photos/200/300?random=2",
         "artist_id": 102,
 
         "genre_ids": [2, 4],
@@ -114,7 +114,7 @@
         "album_name": "Solar Dreams",
         "description": "A rock-infused dreamscape with acoustic undertones.",
         "release_date": "2021-11-03",
-        "album_img": "hhttps://api.lorem.space/image/album?w=150&h=150",
+        "album_img": "hhttps://picsum.photos/200/300?random=3",
         "artist_id": 103,
 
         "genre_ids": [5, 6],
@@ -132,7 +132,7 @@
         "album_name": "Neon Skyline",
         "description": "Electro-pop meets synthwave in this futuristic soundscape.",
         "release_date": "2024-04-18",
-        "album_img": "https://api.lorem.space/image/album?w=150&h=150",
+        "album_img": "https://picsum.photos/200/300?random=4",
         "artist_id": 104,
 
         "genre_ids": [7, 8],
@@ -150,7 +150,7 @@
         "album_name": "Crimson Horizon",
         "description": "Dark trap beats with lyrical storytelling and poetic flow.",
         "release_date": "2020-08-09",
-        "album_img": "https://api.lorem.space/image/album?w=150&h=150",
+        "album_img": "https://picsum.photos/200/300?random=5",
         "artist_id": 105,
 
         "genre_ids": [9, 10],
