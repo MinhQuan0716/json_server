@@ -72,98 +72,96 @@
     }
   ],
   "albums": [
-    [
-      {
-        "id": 1,
-        "album_name": "Eternal Echoes",
-        "description": "A nostalgic journey through shimmering vocals and mellow beats.",
-        "release_date": "2022-05-14",
-        "album_img": "https://picsum.photos/200/300?random=1",
-        "artist_id": 101,
+    {
+      "id": 1,
+      "album_name": "Eternal Echoes",
+      "description": "A nostalgic journey through shimmering vocals and mellow beats.",
+      "release_date": "2022-05-14",
+      "album_img": "https://picsum.photos/200/300?random=1",
+      "artist_id": 101,
 
-        "genre_ids": [1, 3],
+      "genre_ids": [1, 3],
 
-        "song_ids": [1001, 1002, 1003],
-        "total_song": 10,
-        "total_duration": 2300,
-        "follower": 24500,
-        "status": "active",
-        "created_at": "2022-04-01T12:00:00Z",
-        "updated_at": "2022-05-15T09:45:00Z"
-      },
-      {
-        "id": 2,
-        "album_name": "Midnight Waves",
-        "description": "A smooth blend of R&B and contemporary K-pop influences.",
-        "release_date": "2023-02-27",
-        "album_img": "https://picsum.photos/200/300?random=2",
-        "artist_id": 102,
+      "song_ids": [1001, 1002, 1003],
+      "total_song": 10,
+      "total_duration": 2300,
+      "follower": 24500,
+      "status": "active",
+      "created_at": "2022-04-01T12:00:00Z",
+      "updated_at": "2022-05-15T09:45:00Z"
+    },
+    {
+      "id": 2,
+      "album_name": "Midnight Waves",
+      "description": "A smooth blend of R&B and contemporary K-pop influences.",
+      "release_date": "2023-02-27",
+      "album_img": "https://picsum.photos/200/300?random=2",
+      "artist_id": 102,
 
-        "genre_ids": [2, 4],
+      "genre_ids": [2, 4],
 
-        "song_ids": [1004, 1005, 1006],
-        "total_song": 12,
-        "total_duration": 2575,
-        "follower": 88200,
-        "status": "inactive",
-        "created_at": "2023-01-10T08:30:00Z",
-        "updated_at": "2023-03-01T10:15:00Z"
-      },
-      {
-        "id": 3,
-        "album_name": "Solar Dreams",
-        "description": "A rock-infused dreamscape with acoustic undertones.",
-        "release_date": "2021-11-03",
-        "album_img": "hhttps://picsum.photos/200/300?random=3",
-        "artist_id": 103,
+      "song_ids": [1004, 1005, 1006],
+      "total_song": 12,
+      "total_duration": 2575,
+      "follower": 88200,
+      "status": "inactive",
+      "created_at": "2023-01-10T08:30:00Z",
+      "updated_at": "2023-03-01T10:15:00Z"
+    },
+    {
+      "id": 3,
+      "album_name": "Solar Dreams",
+      "description": "A rock-infused dreamscape with acoustic undertones.",
+      "release_date": "2021-11-03",
+      "album_img": "hhttps://picsum.photos/200/300?random=3",
+      "artist_id": 103,
 
-        "genre_ids": [5, 6],
+      "genre_ids": [5, 6],
 
-        "song_ids": [1007, 1008, 1009],
-        "total_song": 9,
-        "total_duration": 2208,
-        "follower": 15700,
-        "status": "active",
-        "created_at": "2021-10-01T09:00:00Z",
-        "updated_at": "2021-11-04T14:00:00Z"
-      },
-      {
-        "id": 4,
-        "album_name": "Neon Skyline",
-        "description": "Electro-pop meets synthwave in this futuristic soundscape.",
-        "release_date": "2024-04-18",
-        "album_img": "https://picsum.photos/200/300?random=4",
-        "artist_id": 104,
+      "song_ids": [1007, 1008, 1009],
+      "total_song": 9,
+      "total_duration": 2208,
+      "follower": 15700,
+      "status": "active",
+      "created_at": "2021-10-01T09:00:00Z",
+      "updated_at": "2021-11-04T14:00:00Z"
+    },
+    {
+      "id": 4,
+      "album_name": "Neon Skyline",
+      "description": "Electro-pop meets synthwave in this futuristic soundscape.",
+      "release_date": "2024-04-18",
+      "album_img": "https://picsum.photos/200/300?random=4",
+      "artist_id": 104,
 
-        "genre_ids": [7, 8],
+      "genre_ids": [7, 8],
 
-        "song_ids": [1010, 1011, 1012],
-        "total_song": 11,
-        "total_duration": 2642,
-        "follower": 31450,
-        "status": "active",
-        "created_at": "2024-03-22T10:45:00Z",
-        "updated_at": "2024-04-19T12:00:00Z"
-      },
-      {
-        "id": 5,
-        "album_name": "Crimson Horizon",
-        "description": "Dark trap beats with lyrical storytelling and poetic flow.",
-        "release_date": "2020-08-09",
-        "album_img": "https://picsum.photos/200/300?random=5",
-        "artist_id": 105,
+      "song_ids": [1010, 1011, 1012],
+      "total_song": 11,
+      "total_duration": 2642,
+      "follower": 31450,
+      "status": "active",
+      "created_at": "2024-03-22T10:45:00Z",
+      "updated_at": "2024-04-19T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "album_name": "Crimson Horizon",
+      "description": "Dark trap beats with lyrical storytelling and poetic flow.",
+      "release_date": "2020-08-09",
+      "album_img": "https://picsum.photos/200/300?random=5",
+      "artist_id": 105,
 
-        "genre_ids": [9, 10],
+      "genre_ids": [9, 10],
 
-        "song_ids": [1013, 1014, 1015],
-        "total_song": 13,
-        "total_duration": 2957,
-        "follower": 40500,
-        "status": "active",
-        "created_at": "2020-07-01T07:00:00Z",
-        "updated_at": "2020-08-10T10:30:00Z"
-      }
-    ]
+      "song_ids": [1013, 1014, 1015],
+      "total_song": 13,
+      "total_duration": 2957,
+      "follower": 40500,
+      "status": "active",
+      "created_at": "2020-07-01T07:00:00Z",
+      "updated_at": "2020-08-10T10:30:00Z"
+    }
   ],
   "users": [
     {
