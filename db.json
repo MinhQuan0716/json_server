@@ -73,7 +73,7 @@
   ],
   "albums": [
     {
-      "id": 1,
+      "id": "1",
       "album_name": "Eternal Echoes",
       "description": "A nostalgic journey through shimmering vocals and mellow beats.",
       "release_date": "2022-05-14",
@@ -91,7 +91,7 @@
       "updated_at": "2022-05-15T09:45:00Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "album_name": "Midnight Waves",
       "description": "A smooth blend of R&B and contemporary K-pop influences.",
       "release_date": "2023-02-27",
@@ -109,7 +109,7 @@
       "updated_at": "2023-03-01T10:15:00Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "album_name": "Solar Dreams",
       "description": "A rock-infused dreamscape with acoustic undertones.",
       "release_date": "2021-11-03",
@@ -127,7 +127,7 @@
       "updated_at": "2021-11-04T14:00:00Z"
     },
     {
-      "id": 4,
+      "id": "4",
       "album_name": "Neon Skyline",
       "description": "Electro-pop meets synthwave in this futuristic soundscape.",
       "release_date": "2024-04-18",
@@ -145,7 +145,7 @@
       "updated_at": "2024-04-19T12:00:00Z"
     },
     {
-      "id": 5,
+      "id": "5",
       "album_name": "Crimson Horizon",
       "description": "Dark trap beats with lyrical storytelling and poetic flow.",
       "release_date": "2020-08-09",
