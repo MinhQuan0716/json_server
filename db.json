@@ -118,7 +118,7 @@
 
       "genre_ids": [5, 6],
 
-      "song_ids": [1007, 1008, 1009],
+      "song_ids": ["4", "5", "6"],
       "total_song": 9,
       "total_duration": 2208,
       "follower": 15700,
@@ -136,7 +136,7 @@
 
       "genre_ids": [7, 8],
 
-      "song_ids": [1010, 1011, 1012],
+      "song_ids": ["7", "8", "9"],
       "total_song": 11,
       "total_duration": 2642,
       "follower": 31450,
@@ -154,7 +154,7 @@
 
       "genre_ids": [9, 10],
 
-      "song_ids": [1013, 1014, 1015],
+      "song_ids": ["10", "11", "12"],
       "total_song": 13,
       "total_duration": 2957,
       "follower": 40500,
@@ -222,174 +222,100 @@
   ],
   "genre": [
     {
-      "id": 1,
+      "id": "1",
       "genreName": "Vietnamese Pop"
     },
     {
-      "id": 2,
+      "id": "2",
       "genreName": "K-Pop"
     },
     {
-      "id": 3,
+      "id": "3",
       "genreName": "Rock"
     },
     {
-      "id": 4,
+      "id": "4",
       "genreName": "Electronic"
     },
     {
-      "id": 5,
+      "id": "5",
       "genreName": "Hip Hop"
     },
     {
       "genreName": "Test",
-      "id": 6
+      "id": "6"
     }
   ],
   "tracks": [
     {
-      "id": "1",
-      "track_name": "Ocean Breeze",
-      "artist_id": 101,
-      "published_at": "2024-06-15T00:00:00Z",
-      "duration": 215,
-      "play_count": 12456,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/06-Dhalius-06-tremble.mp3",
-      "status": "active",
-      "album_id": 201
+      "id": "a1f2e9d4",
+      "name": "The Velvet Echo",
+      "published_at": "2025-04-12T08:45:00Z",
+      "duration": 241,
+      "play_count": 54321,
+      "lyrics": "Whispers in the hallway, echoes in the night...",
+      "image_url": "https://example.com/images/velvet-echo.jpg",
+      "track_url": "https://example.com/tracks/velvet-echo.mp3",
+      "explicit": false,
+      "album_id": "alb-9901",
+      "entity_type": "songs",
+      "status": "published"
     },
     {
-      "id": "2",
-      "track_name": "Midnight Drive",
-      "artist_id": 102,
-      "published_at": "2024-07-01T00:00:00Z",
-      "duration": 198,
-      "play_count": 8472,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02c353169a2288f403265ee402",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/6.DigitalLiveRetro.mp3",
-      "status": "inactive",
-      "album_id": 202
+      "id": "b7c3d2a0",
+      "name": "Midnight Mindset",
+      "published_at": "2025-01-22T20:30:00Z",
+      "duration": 3600,
+      "play_count": 87500,
+      "lyrics": "",
+      "image_url": "https://example.com/images/midnight-mindset.jpg",
+      "track_url": "https://example.com/podcasts/midnight-mindset-ep12.mp3",
+      "explicit": true,
+      "album_id": "pod-1102",
+      "entity_type": "podcast",
+      "status": "published"
     },
     {
-      "id": "3",
-      "track_name": "Fading Echoes",
-      "artist_id": 103,
-      "published_at": "2024-05-20T00:00:00Z",
-      "duration": 243,
-      "play_count": 3021,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02a06a6b51d0dc296d48505ee6",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/64.NonePublicStop.mp3",
-      "status": "active",
-      "album_id": 203
+      "id": "c9e8f1d7",
+      "name": "Broken Satellites",
+      "published_at": "2025-07-01T13:10:00Z",
+      "duration": 189,
+      "play_count": 2300,
+      "lyrics": "Flying high until we broke apart...",
+      "image_url": "https://example.com/images/broken-satellites.jpg",
+      "track_url": "https://example.com/tracks/broken-satellites.mp3",
+      "explicit": true,
+      "album_id": "alb-9901",
+      "entity_type": "songs",
+      "status": "waiting"
     },
     {
-      "id": "4",
-      "track_name": "Golden Horizon",
-      "artist_id": 104,
-      "published_at": "2023-12-10T00:00:00Z",
-      "duration": 180,
-      "play_count": 15788,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e020af4476af141051c728ee8b9",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/68.SearchForTheTrumpetman.mp3",
-      "status": "active",
-      "album_id": 204
+      "id": "d3b6e0f9",
+      "name": "History Rewired",
+      "published_at": "2024-10-10T10:00:00Z",
+      "duration": 2700,
+      "play_count": 105000,
+      "lyrics": "",
+      "image_url": "https://example.com/images/history-rewired.jpg",
+      "track_url": "https://example.com/podcasts/history-rewired-s2e5.mp3",
+      "explicit": false,
+      "album_id": "pod-2003",
+      "entity_type": "podcast",
+      "status": "archived"
     },
     {
-      "id": "5",
-      "track_name": "Winds of Change",
-      "artist_id": 105,
-      "published_at": "2024-03-22T00:00:00Z",
-      "duration": 210,
-      "play_count": 9324,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02be066d7fd668d8a0672b1245",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/7.AfectedTvShow.mp3",
-      "status": "inactive",
-      "album_id": 205
-    },
-    {
-      "id": "6",
-      "track_name": "Electric Pulse",
-      "artist_id": 106,
-      "published_at": "2024-08-05T00:00:00Z",
+      "id": "e6f7a2c3",
+      "name": "Rising Dust",
+      "published_at": "2025-06-17T17:20:00Z",
       "duration": 202,
-      "play_count": 11034,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02f534e2bfbc55369a5f8588de",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/71.SoundSister.mp3",
-      "status": "active",
-      "album_id": 206
-    },
-    {
-      "id": "7",
-      "track_name": "Starlit Journey",
-      "artist_id": 107,
-      "published_at": "2024-04-12T00:00:00Z",
-      "duration": 225,
-      "play_count": 7639,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02d52fd56d03776396bb440624",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/72.SucesiveMountains.mp3",
-      "status": "active",
-      "album_id": 207
-    },
-    {
-      "id": "8",
-      "track_name": "Crimson Skies",
-      "artist_id": 108,
-      "published_at": "2024-02-28T00:00:00Z",
-      "duration": 195,
-      "play_count": 8821,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02aa8b2071efbaa7ec3f41b60b",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/74.TenSummers.mp3",
-      "status": "inactive",
-      "album_id": 208
-    },
-    {
-      "id": "9",
-      "track_name": "Velvet Morning",
-      "artist_id": 109,
-      "published_at": "2024-09-14T00:00:00Z",
-      "duration": 230,
-      "play_count": 6574,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e028bdbdf691a5b791a5afb515b",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/77.MantramDog.mp3",
-      "status": "active",
-      "album_id": 209
-    },
-    {
-      "id": "10",
-      "track_name": "Neon Mirage",
-      "artist_id": 110,
-      "published_at": "2024-10-01T00:00:00Z",
-      "duration": 218,
-      "play_count": 9990,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02bf7d3058bc206639f626da8b",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
-      "status": "active",
-      "album_id": 210
-    },
-    {
-      "id": "11",
-      "track_name": "Neon Gold",
-      "artist_id": 110,
-      "published_at": "2024-10-01T00:00:00Z",
-      "duration": 218,
-      "play_count": 9990,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02bf7d3058bc206639f626da8b",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
-      "status": "inactive",
-      "album_id": 211
-    },
-    {
-      "id": "12",
-      "track_name": "Red Gold",
-      "artist_id": 110,
-      "published_at": "2024-10-01T00:00:00Z",
-      "duration": 218,
-      "play_count": 9990,
-      "img_url": "https://i.scdn.co/image/ab67616d00001e02bf7d3058bc206639f626da8b",
-      "track_url": "https://dn721609.ca.archive.org/0/items/100_free_royalty_background_music_tracks/AloneInTheUnlimitedMountains.mp3",
-      "status": "inactive",
-      "album_id": 211
+      "play_count": 76400,
+      "lyrics": "Ashes to embers, we rise again...",
+      "image_url": "https://example.com/images/rising-dust.jpg",
+      "track_url": "https://example.com/tracks/rising-dust.mp3",
+      "explicit": false,
+      "album_id": "alb-1044",
+      "entity_type": "songs",
+      "status": "published"
     }
   ],
   "comments": [
