@@ -269,7 +269,7 @@
       "explicit": false,
       "album_id": "alb-9901",
       "entity_type": "songs",
-      "status": "published"
+      "status": "pending"
     },
     {
       "id": "b7c3d2a0",
@@ -283,7 +283,7 @@
       "explicit": true,
       "album_id": "pod-1102",
       "entity_type": "podcast",
-      "status": "published"
+      "status": "pending"
     },
     {
       "id": "c9e8f1d7",
@@ -311,7 +311,7 @@
       "explicit": false,
       "album_id": "pod-2003",
       "entity_type": "podcast",
-      "status": "archived"
+      "status": "pending"
     },
     {
       "id": "e6f7a2c3",
@@ -325,7 +325,7 @@
       "explicit": false,
       "album_id": "alb-1044",
       "entity_type": "songs",
-      "status": "published"
+      "status": "pending"
     }
   ],
   "comments": [
