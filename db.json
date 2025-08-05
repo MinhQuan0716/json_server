@@ -518,49 +518,94 @@
   ],
   "reports": [
     {
-      "name": "Rose Zboncak",
-      "email": "Cassidy_Shanahan@yahoo.com",
-      "trackUrl": "https://picsum.photos/seed/qRkkpYOk/1106/2319",
-      "description": "3464",
-      "imgUrl": "https://picsum.photos/seed/goYFC/3011/3374",
-      "isCompleted": true,
-      "id": "3"
+      "id": "r1",
+      "reporter_id": "u1",
+      "content": "Bài hát có nội dung phản cảm và không phù hợp với trẻ em.",
+      "create_date": "2025-08-01T10:23:00Z",
+      "status": "pending",
+      "entity_id": "a1f2e9d4",
+      "report_type": "track"
     },
     {
-      "name": "Peggy Heaney",
-      "email": "Missouri0@yahoo.com",
-      "trackUrl": "https://loremflickr.com/2683/1983?lock=3285458360811489",
-      "description": "347",
-      "imgUrl": "https://loremflickr.com/2250/175?lock=4340586219923074",
-      "isCompleted": false,
-      "id": "4"
+      "id": "r2",
+      "reporter_id": "u2",
+      "content": "Tài khoản này spam tin nhắn và bình luận tục tĩu.",
+      "create_date": "2025-08-02T08:45:00Z",
+      "status": "resolved",
+      "entity_id": "u3",
+      "report_type": "user"
     },
     {
-      "name": "Natasha Jacobs",
-      "email": "Genesis72@gmail.com",
-      "trackUrl": "https://loremflickr.com/3303/3093?lock=1391008474784695",
-      "description": "384",
-      "imgUrl": "https://picsum.photos/seed/GxmfHaW/894/2942",
-      "isCompleted": true,
-      "id": "5"
+      "id": "r3",
+      "reporter_id": "u4",
+      "content": "Bài hát này vi phạm bản quyền rõ ràng.",
+      "create_date": "2025-08-03T11:00:00Z",
+      "status": "pending",
+      "entity_id": "b7c3d2a0",
+      "report_type": "track"
     },
     {
-      "name": "Cassandra Sauer I",
-      "email": "Kaylah.Rohan92@yahoo.com",
-      "trackUrl": "https://loremflickr.com/1685/1624?lock=2871380428486528",
-      "description": "79026",
-      "imgUrl": "https://picsum.photos/seed/ykAAJE/2760/3040",
-      "isCompleted": true,
-      "id": "6"
+      "id": "r4",
+      "reporter_id": "u5",
+      "content": "Tài khoản giả mạo người nổi tiếng.",
+      "create_date": "2025-08-04T13:12:00Z",
+      "status": "resolved",
+      "entity_id": "u2",
+      "report_type": "user"
     },
     {
-      "name": "Lawrence Mayer",
-      "email": "Antonina45@yahoo.com",
-      "trackUrl": "https://picsum.photos/seed/df38lwm03/3089/3692",
-      "description": "86869",
-      "imgUrl": "https://loremflickr.com/1559/1772?lock=5852001584002238",
-      "isCompleted": true,
-      "id": "7"
+      "id": "r5",
+      "reporter_id": "u3",
+      "content": "Nội dung bài hát chứa từ ngữ xúc phạm tôn giáo.",
+      "create_date": "2025-08-05T09:00:00Z",
+      "status": "pending",
+      "entity_id": "c9e8f1d7",
+      "report_type": "track"
+    },
+    {
+      "id": "r6",
+      "reporter_id": "u1",
+      "content": "Người dùng này quấy rối tôi qua bình luận.",
+      "create_date": "2025-08-05T09:15:00Z",
+      "status": "pending",
+      "entity_id": "u5",
+      "report_type": "user"
+    },
+    {
+      "id": "r7",
+      "reporter_id": "u2",
+      "content": "Bài hát chứa âm thanh không rõ ràng, có thể là lỗi hệ thống.",
+      "create_date": "2025-08-05T10:00:00Z",
+      "status": "pending",
+      "entity_id": "d3b6e0f9",
+      "report_type": "track"
+    },
+    {
+      "id": "r8",
+      "reporter_id": "u4",
+      "content": "Tài khoản đăng nhiều nội dung nhạy cảm.",
+      "create_date": "2025-08-05T11:30:00Z",
+      "status": "pending",
+      "entity_id": "u1",
+      "report_type": "user"
+    },
+    {
+      "id": "r9",
+      "reporter_id": "u3",
+      "content": "Bài hát này lặp lại nhiều lần và gây khó chịu.",
+      "create_date": "2025-08-05T12:00:00Z",
+      "status": "pending",
+      "entity_id": "e6f7a2c3",
+      "report_type": "track"
+    },
+    {
+      "id": "r10",
+      "reporter_id": "u5",
+      "content": "Người dùng này có hành vi gian lận trong vote.",
+      "create_date": "2025-08-05T12:45:00Z",
+      "status": "pending",
+      "entity_id": "u4",
+      "report_type": "user"
     }
   ]
 }
